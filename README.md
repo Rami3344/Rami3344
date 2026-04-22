@@ -85,20 +85,51 @@ Marketplace web application
 
 ---
 
-<!-- ===================== STATS ===================== -->
-## 📈 GitHub Stats
+<!-- ===================== ANALYTICS ===================== -->
+## 📊 Analytics
 
+<!-- ---- METRICS (PRIMARY) ---- -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rami3344&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rami3344&theme=tokyonight&hide_border=true" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rami3344&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://raw.githubusercontent.com/Rami3344/Rami3344/main/github-metrics.svg" />
 </p>
 
 ---
 
+<!-- ---- WAKATIME (REAL ACTIVITY) ---- -->
+## ⏱️ Coding Activity (Real Usage)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<!-- ---- STREAK + CONTRIBUTIONS ---- -->
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rami3344&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rami3344&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- ---- PRODUCTIVITY + HABITS ---- -->
+## ⚡ Development Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rami3344&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rami3344&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rami3344&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rami3344&theme=tokyonight&utcOffset=1"/>
+</p>
+
+---
 <!-- ===================== EDUCATION ===================== -->
 ## 🎓 Education
 
