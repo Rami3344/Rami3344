@@ -112,26 +112,6 @@ Marketplace web application
 </p>
 
 ---
-<!-- ===================== EDUCATION ===================== -->
-## 🎓 Education
-
-**Bachelor’s Degree in Computer Science (Big Data)**  
-Higher Institute of Computer Science and Multimedia of Sfax  
-Sep 2024 – Present  
-
-**High School Diploma (Computer Science)**  
-Monji Slim High School  
-2020 – 2024  
-
----
-
-<!-- ===================== LANGUAGES ===================== -->
-## 🌍 Languages
-- Arabic — Native  
-- English — Fluent  
-- French — Intermediate  
-
----
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
