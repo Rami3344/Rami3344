@@ -85,24 +85,6 @@ Marketplace web application
 
 ---
 
-<!-- ===================== ANALYTICS ===================== -->
-## 📊 Analytics
-
-<!-- ---- METRICS (PRIMARY) ---- -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rami3344/Rami3344/main/github-metrics.svg" />
-</p>
-
----
-
-<!-- ---- WAKATIME (REAL ACTIVITY) ---- -->
-## ⏱️ Coding Activity (Real Usage)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 <!-- ---- STREAK + CONTRIBUTIONS ---- -->
 ## 🔥 Contribution Activity
 
