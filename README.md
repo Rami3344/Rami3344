@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<h1 align="center">Hi, I'm a Computer Science (Big Data) Student</h1>
+<h1 align="center">Hi, I'm a Computer Science (Data Analytics & Big Data) Student</h1>
 <h3 align="center">Full Stack Developer • DevOps-Oriented • Cloud Enthusiast</h3>
 
 <p align="center">
