@@ -10,7 +10,7 @@
 
 <!-- ===================== ABOUT ===================== -->
 ## 🧠 About Me
-- Second-year Computer Science student specializing in **Big Data**
+- Third-year Computer Science student specializing in **Big Data**
 - Practical experience building **full-stack web applications**
 - Focused on **scalable systems, DevOps, and cloud infrastructure**
 - Currently targeting a **summer internship**
