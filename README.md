@@ -51,8 +51,8 @@
 <!-- ===================== EXPERIENCE ===================== -->
 ## 💼 Experience
 
-**Full Stack Web Developer — Voice Of Gamers Creative Studio**  
-*Oct 2025 – Present*
+**CTO — Voice Of Gamers Creative Studio**  
+*June 2026 – Present*
 
 - Built and maintained full-stack applications  
 - Implemented frontend, backend, and API integrations  
